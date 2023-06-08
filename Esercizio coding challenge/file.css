@@ -1,0 +1,102 @@
+body{
+    background-image:url(background.jpg);
+    width :1300px;
+    height: 700px;
+    margin: auto;
+}
+.blocco{
+    background-color: black ;
+    border: 20px;
+    opacity: 0.6;
+    border-radius: 15px 15px 15px 15px;
+    padding: auto;
+    padding-bottom:  8%;
+   
+
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+    margin-top: 50px;
+    padding-top: 3%;
+}
+
+.logotext{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 46%;
+    font-size: 45px;
+    color: rgb(7, 200, 7);
+}
+
+#menu{
+    background-color: rgba(7, 200, 7, 1);
+    opacity: 1;
+    width: 800px;
+    margin: auto;
+    margin-top: -25px;
+    text-align: center;
+    height: 40px;
+}
+
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.monopattini{
+    font-size: 30px;
+   
+        
+}
+.mainpart{
+    color: white;
+    margin: 25px;
+    margin-left: 250px;
+    
+}
+
+h5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#rigaorange{
+    background-color: orange;
+    border-color: orange;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    width: 320px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#rigagreen{
+    background-color:rgb(7, 200, 7) ;
+    border-color: rgb(7, 200, 7);
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    width: 530px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#rigared{
+    background-color:red ;
+    border-color: red;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    width: 180px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
